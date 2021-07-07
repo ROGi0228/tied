@@ -784,17 +784,18 @@
 }
 
 
-@media screen and (max-width: 376px){
+@media screen and (max-width: 520px){
     .form{
-        width: 300px;
+        width: 400px;
     }
 
     .form__input{
-        width: 250px;
+        width: 300px;
     }
 
     .pose{
-        width: 150px;
+        width: 200px;
+        margin-bottom: 150px;
     }
 
     .big-finnger{
@@ -854,5 +855,40 @@
 
     .navigation__logo{
         margin-left: -15px;
+    }
+}
+
+@media screen and (max-width: 520px){
+    .form{
+        width: 300px;
+    }
+
+    .form__input{
+        width: 270px;
+    }
+
+    .pose{
+        width: 150px;
+        margin-bottom: 150px;
+    }
+}
+
+
+@media screen and (max-width: 360px){
+    .main__pic1{
+        width: 300px;
+
+    }
+
+    .pose{
+        display: none;
+    }
+
+    .aboutUs__subtitle{
+        font-size: 15px;
+    }
+
+    .slider__item img{
+        width: 150px;
     }
 }

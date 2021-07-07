@@ -12,10 +12,9 @@ $(document).ready(function(){
         centerMode: true,
         variableWidth: false,
         responsive: [{
-            breakpoint: 768,
+            breakpoint: 800,
             settings:{
                 slidesToShow: 1,
-                variableWidth: true,
             }
         }]
         
