@@ -222,7 +222,6 @@
 
 .slider__item{
     text-align: center;
-    opacity: .4;
     transition: all 0.3s ease 0s;
 }
 .slider__item.slick-center{

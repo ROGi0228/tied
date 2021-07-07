@@ -6,10 +6,9 @@ $(document).ready(function(){
         adaptiveHeight: true,
         slidesToShow: 2,
         speed: 1000,
-        easing: 'linear',
         autoplay: true,
         autoplaySpeed: 10000,
-        centerMode: true,
+        centerMode: false,
         variableWidth: false,
         responsive: [{
             breakpoint: 800,
