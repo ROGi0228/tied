@@ -6,8 +6,9 @@
 }
 
 .tolya{
-    max-width=356px;
-    max-height=391px;
+    max-width: 356px;
+    max-height: 391px;
+    border-radius: 100%;
 }
 
 .header{
