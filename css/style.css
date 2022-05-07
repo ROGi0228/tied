@@ -5,6 +5,11 @@
     padding: 0;
 }
 
+.tolya{
+    max-width=356px;
+    max-height=391px;
+}
+
 .header{
     font-family: Montserrat;
     background: linear-gradient(180deg, #09D3FF 0%, #308DB6 100%);
